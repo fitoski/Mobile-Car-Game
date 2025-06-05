@@ -4,7 +4,7 @@ namespace MobileCarGame
 {
     public class SceneLoader : MonoBehaviour
     {
-        public string sceneToLoad;
+        public GameState sceneToLoad;
 
         public void Load()
         {
