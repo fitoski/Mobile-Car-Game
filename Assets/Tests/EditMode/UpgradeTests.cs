@@ -3,6 +3,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 using System.Reflection;
+using ALIyerEdon;
 
 namespace Tests.EditMode
 {
@@ -16,7 +17,7 @@ namespace Tests.EditMode
             PlayerPrefs.SetInt("Suspension0", 0);
 
             var go = new GameObject("UpgradeGO");
-            var upgrade = go.AddComponent<ALIyerEdon.Upgrade>();
+            var upgrade = go.AddComponent<Upgrade>();
 
             upgrade.suspensionPrice = new int[] { 100, 200 };
             upgrade.speedPrice = new int[] { 1, 1 }; // length needed by method
@@ -31,7 +32,7 @@ namespace Tests.EditMode
             upgrade.Buy = AudioClip.Create("buy", 1, 1, 44100, false);
 
             // set private id field
-            typeof(ALIyerEdon.Upgrade).GetField("id", BindingFlags.NonPublic | BindingFlags.Instance).SetValue(upgrade, 0);
+            typeof(Upgrade).GetField("id", BindingFlags.NonPublic | BindingFlags.Instance).SetValue(upgrade, 0);
 
             upgrade.SuspensionUpgrade();
 
