@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a28eb88f27ae0944e983cd6bbdcb617d
+timeCreated: 1477908181
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Materials/Tire.physicsMaterial2D
+  uploadId: 721996

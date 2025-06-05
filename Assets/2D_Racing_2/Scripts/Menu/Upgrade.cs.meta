@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 41ac66e6fced53a4ebc341f8f4597c7c
+timeCreated: 1478757404
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Scripts/Menu/Upgrade.cs
+  uploadId: 721996

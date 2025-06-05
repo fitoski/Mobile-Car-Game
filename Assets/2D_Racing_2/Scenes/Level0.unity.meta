@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5b8ff0d082db2447bbff86e5a19d24f
+timeCreated: 1477905694
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Scenes/Level0.unity
+  uploadId: 721996

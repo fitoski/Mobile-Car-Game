@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 20bbdaa32f2b7f04f938edbcc32406c1
+timeCreated: 1477905973
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Scripts/Gameplay/CarController.cs
+  uploadId: 721996

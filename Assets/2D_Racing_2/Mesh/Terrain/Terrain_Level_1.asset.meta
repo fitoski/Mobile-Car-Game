@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef8d6ec4ab9d8f04395f6f51fe85617b
+timeCreated: 1481529397
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Mesh/Terrain/Terrain_Level_1.asset
+  uploadId: 721996

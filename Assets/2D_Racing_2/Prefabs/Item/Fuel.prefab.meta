@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c118ac82f90a514796ce5f09f73fa66
+timeCreated: 1481269841
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Prefabs/Item/Fuel.prefab
+  uploadId: 721996

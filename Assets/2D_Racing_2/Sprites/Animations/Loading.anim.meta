@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 59a9eb009eac95441917d123ee58834a
+timeCreated: 1495640091
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Sprites/Animations/Loading.anim
+  uploadId: 721996

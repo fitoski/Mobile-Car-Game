@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf9bf4432283749489adca4cab145992
+timeCreated: 1495618326
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Scripts/Menu/UnityAdsIntegration/UnityAdsIntegration.rar
+  uploadId: 721996

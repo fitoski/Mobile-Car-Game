@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1e1266a11c621e6448e049c91559e7f5
+timeCreated: 1477907655
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Scripts/Gameplay/SmoothFollow2D.cs
+  uploadId: 721996

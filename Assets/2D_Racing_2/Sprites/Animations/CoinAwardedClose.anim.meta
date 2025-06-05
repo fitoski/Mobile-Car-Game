@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 28c14d9379ec3e640b1ffc3b23e89993
+timeCreated: 1478375052
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Sprites/Animations/CoinAwardedClose.anim
+  uploadId: 721996

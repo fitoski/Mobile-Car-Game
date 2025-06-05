@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b0219f4336e94e34b920677f3c7d185b
+timeCreated: 1478102572
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Editor/ItemSpawnerEditor.cs
+  uploadId: 721996

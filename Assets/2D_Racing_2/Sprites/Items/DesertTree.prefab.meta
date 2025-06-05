@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 146c2981a99d45345af9b07311422fe8
+timeCreated: 1494266902
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Sprites/Items/DesertTree.prefab
+  uploadId: 721996

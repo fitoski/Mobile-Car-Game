@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38ca4d82c16d17b4fa5b67d032995370
+timeCreated: 1481538436
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Materials/Body_2D.physicsMaterial2D
+  uploadId: 721996

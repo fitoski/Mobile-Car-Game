@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d2ea870b83eccb46b3d2640586f92f9
+timeCreated: 1478103829
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Prefabs/Item/Coins/Coin25.prefab
+  uploadId: 721996

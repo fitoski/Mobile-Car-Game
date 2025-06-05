@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7ccdee8018df8a478332091b2aa0642
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Scenes/UnityAdsSettings.lighting
+  uploadId: 721996

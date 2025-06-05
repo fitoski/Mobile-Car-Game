@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d4ec88f9bb081294480e0000c185424e
+timeCreated: 1495620439
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Scripts/Menu/UnityAdsIntegration/Items/AdsFree.controller
+  uploadId: 721996

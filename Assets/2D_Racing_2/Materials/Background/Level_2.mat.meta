@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23615dd1bc8cf8a4db0d9b1b6c78f22b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304755
+  packageName: 2D Racing Game 2
+  packageVersion: 2.0
+  assetPath: Assets/2D_Racing_2/Materials/Background/Level_2.mat
+  uploadId: 721996
