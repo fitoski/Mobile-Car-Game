@@ -219,14 +219,21 @@ namespace ALIyerEdon
 				CoinTXT.transform.localScale.z);
 		}
 		//Add Fuel-----------------------------------------------
-		public void AddFuel(int value)
-		{//add fuel called from Fuel Trigger  s
-			if (coinSound)
-				coinSound.Play();
-			TotalFuel = value;
-			//CoinTXT.text = Coins.ToString ();
-			//PlayerPrefs.SetInt ("Coins", Coins);
-		}
+                public void AddFuel(int value)
+                {//add fuel called from Fuel Triggers
+                        if (coinSound)
+                                coinSound.Play();
+
+                        // Increase current fuel instead of overriding it
+                        TotalFuel += value;
+
+                        // Clamp to avoid going over the maximum slider value
+                        if (FuelSlider)
+                                TotalFuel = Mathf.Clamp(TotalFuel, 0f, FuelSlider.maxValue);
+
+                        FuelSlider.value = TotalFuel;
+                        FuelTXT.text = Mathf.Floor(TotalFuel).ToString();
+                }
 		//-----------------------------------------------
 
 
