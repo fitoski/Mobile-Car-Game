@@ -19,7 +19,7 @@ namespace ALIyerEdon
 
 		int id;
 
-		[Header("Information Texts")]
+		[Header("Informatin Texts")]
 		public Text CoinsTXT;
 		public Text TorqueTXT, SuspensionTXT, FuelTXT, SpeedTXT;
 		public Text priceTorqueTXT, priceSuspensionTXT, priceFuelTXT, priceSpeedTXT;
@@ -136,8 +136,8 @@ namespace ALIyerEdon
 					PlayerPrefs.SetInt("Suspension" + id.ToString(), PlayerPrefs.GetInt("Suspension" + id.ToString()) + 1);
 					CoinsTXT.text = PlayerPrefs.GetInt("Coins").ToString();
 					SuspensionTXT.text = "Level : " + PlayerPrefs.GetInt("Suspension" + id.ToString()).ToString() + " / " + suspensionPrice.Length.ToString();
-                                        if (PlayerPrefs.GetInt("Suspension" + id.ToString()) < suspensionPrice.Length)
-                                                priceSuspensionTXT.text = suspensionPrice[PlayerPrefs.GetInt("Suspension" + id.ToString())].ToString() + " $";
+					if (PlayerPrefs.GetInt("Suspension" + id.ToString()) < speedPrice.Length)
+						priceSuspensionTXT.text = suspensionPrice[PlayerPrefs.GetInt("Suspension" + id.ToString())].ToString() + " $";
 					else
 						priceSuspensionTXT.text = "Completed";
 				}
