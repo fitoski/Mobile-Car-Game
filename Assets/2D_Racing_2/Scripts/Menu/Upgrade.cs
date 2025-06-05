@@ -19,7 +19,7 @@ namespace ALIyerEdon
 
 		int id;
 
-		[Header("Informatin Texts")]
+		[Header("Information Texts")]
 		public Text CoinsTXT;
 		public Text TorqueTXT, SuspensionTXT, FuelTXT, SpeedTXT;
 		public Text priceTorqueTXT, priceSuspensionTXT, priceFuelTXT, priceSpeedTXT;
