@@ -1,7 +1,8 @@
 {
     "name": "EditModeTests",
     "references": [
-        "UnityEngine.UI"
+        "UnityEngine.UI",
+        "Assembly-CSharp"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"
