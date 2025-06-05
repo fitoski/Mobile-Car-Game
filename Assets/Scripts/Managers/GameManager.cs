@@ -27,7 +27,27 @@ namespace MobileCarGame
 
         public void LoadScene(string sceneName)
         {
-            SceneManager.LoadScene(sceneName);
+            StartCoroutine(LoadSceneAsync(sceneName));
+        }
+
+        public void LoadScene(GameState state)
+        {
+            ChangeState(state);
+            LoadScene(GetSceneName(state));
+        }
+
+        private static string GetSceneName(GameState state)
+        {
+            return state.ToString();
+        }
+
+        private System.Collections.IEnumerator LoadSceneAsync(string sceneName)
+        {
+            AsyncOperation operation = SceneManager.LoadSceneAsync(sceneName);
+            while (!operation.isDone)
+            {
+                yield return null;
+            }
         }
     }
 }
